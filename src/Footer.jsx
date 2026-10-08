@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer-content">
-        <h2>Fato Blog</h2>
+        <h2>NOSS Blog</h2>
 
         <p>
           Thoughts, stories and ideas worth sharing.
