@@ -1,0 +1,17 @@
+{
+  "blog": [
+    {
+      "title": "fato",
+      "body": "fatoma",
+      "auther": "nwrs",
+      "id": "fRrzL212Mt4"
+    },
+    {
+      "title": "Hello October",
+      "body": "Stay hydrated and healthy ....",
+      "auther": "nwrs",
+      "id": "DvjGshcNE7Q"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
